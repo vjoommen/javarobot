@@ -1,0 +1,10 @@
+Installation: 
+	- Install Eclipse
+	- Install RED from Eclipse Marketplace
+	
+
+
+When using IE, if the text entered is very slow then follow the instructions below:
+     1)Open by IE or IE Driver
+     2) Under Internet Options > Advanced > Security, Check on "Enable  Enhanced Protected Mode" (for 64 bit) and uncheck if the
+        browser is 32 bit.
